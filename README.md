@@ -4,8 +4,9 @@ Welcome to my GitHub page! With 4 years in software development, I'm passionate 
 *A good day for me is when I can achieve my first handshake with a PCB Sensor Module*
 
 - 🔌 IoT and Smart Sensors
+- 🌐 Web Application Development
 - 🧠 TinyML (Tiny Machine Learning)
 - ⚙️ Embedded & Edge AI
-- 🌐 Web Application Development
+- 🎲 3D Low Poly Modeling
   
 Here, I share my experiments in these areas. Let's connect on LinkedIn or drop me an email at mohyiddineoujarrar@gmail.com. Happy coding! 🚀
